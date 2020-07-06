@@ -15,4 +15,4 @@ The dataset consists of the following sections:
 * data/charset.json : a dictionary specifying the mapping between the characters and the numbers in ```chars.txt```
 * data/lm.arpa : an ngram language model trained using KenLM, consists of at most 4 gram sequences.
 
-The dataset was recorded using LIG-Aikuma app and further processed to for training purposes.
+The dataset was recorded using LIG-Aikuma app and further processed for training purposes.
